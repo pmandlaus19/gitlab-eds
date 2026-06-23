@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://guides.adobe.com/eds-workers/pmandlaus19/gitlab-eds/main/docs
+    url: https://shrill-frog-94e6.sudhanshu1996monga9741.workers.dev/gitlab/gitlab.com/pmandlaus/gitlab-private/main/docs
     type: markup
 
